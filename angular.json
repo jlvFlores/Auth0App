@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Auth0App"
+    }
+  },
+  "defaultProject": "Auth0App",
+  "cli": {
+    "analytics": "2beaa09d-f2c6-4e90-91cc-de2c15bc6735"
+  }
 }
